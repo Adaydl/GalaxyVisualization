@@ -17,4 +17,4 @@ The dataset is drawn from [Galaxy Zoo - The Galaxy Challenge](https://www.kaggle
 
 ***
 # Have fun!
-![galaxy](https://i.loli.net/2018/02/06/5a795150ce946.jpg)
+![visualization](https://i.loli.net/2018/02/06/5a795accf1e1f.png)
